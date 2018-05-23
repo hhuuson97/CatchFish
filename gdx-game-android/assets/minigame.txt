@@ -1,0 +1,257 @@
+minigame.png
+size: 2048, 793
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 0, 0
+  size: 480, 320
+  orig: 480, 320
+  offset: 0, 0
+  index: -1
+bonusgame
+  rotate: false
+  xy: 480, 0
+  size: 533, 97
+  orig: 533, 97
+  offset: 0, 0
+  index: -1
+counter
+  rotate: false
+  xy: 1013, 0
+  size: 175, 91
+  orig: 175, 91
+  offset: 0, 0
+  index: -1
+ending
+  rotate: false
+  xy: 1188, 0
+  size: 801, 401
+  orig: 801, 401
+  offset: 0, 0
+  index: -1
+explore
+  rotate: false
+  xy: 0, 401
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: 1
+explore
+  rotate: false
+  xy: 77, 401
+  size: 93, 85
+  orig: 93, 85
+  offset: 0, 0
+  index: 2
+explore
+  rotate: false
+  xy: 170, 401
+  size: 93, 85
+  orig: 93, 85
+  offset: 0, 0
+  index: 3
+help
+  rotate: false
+  xy: 263, 401
+  size: 941, 150
+  orig: 941, 150
+  offset: 0, 0
+  index: -1
+itemboom
+  rotate: false
+  xy: 1204, 401
+  size: 66, 79
+  orig: 66, 79
+  offset: 0, 0
+  index: 1
+itemboom
+  rotate: false
+  xy: 1270, 401
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: 2
+itemboom
+  rotate: false
+  xy: 1326, 401
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: 3
+itembox
+  rotate: false
+  xy: 1389, 401
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+itemcookie
+  rotate: false
+  xy: 1468, 401
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: 1
+itemcookie
+  rotate: false
+  xy: 1526, 401
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: 2
+itemcookie
+  rotate: false
+  xy: 1584, 401
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: 3
+itemfish
+  rotate: false
+  xy: 1643, 401
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: 1
+itemfish
+  rotate: false
+  xy: 1713, 401
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: 2
+itemfish
+  rotate: false
+  xy: 1782, 401
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: 3
+itemoptimus
+  rotate: false
+  xy: 1838, 401
+  size: 58, 82
+  orig: 58, 82
+  offset: 0, 0
+  index: 1
+itemoptimus
+  rotate: false
+  xy: 1896, 401
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: 2
+itemoptimus
+  rotate: false
+  xy: 1958, 401
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: 3
+itemstarfish
+  rotate: false
+  xy: 0, 551
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: 1
+itemstarfish
+  rotate: false
+  xy: 82, 551
+  size: 78, 81
+  orig: 78, 81
+  offset: 0, 0
+  index: 2
+itemstarfish
+  rotate: false
+  xy: 160, 551
+  size: 75, 78
+  orig: 75, 78
+  offset: 0, 0
+  index: 3
+openbox
+  rotate: false
+  xy: 235, 551
+  size: 474, 242
+  orig: 474, 242
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 709, 551
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 761, 551
+  size: 104, 170
+  orig: 104, 170
+  offset: 0, 0
+  index: 1
+start
+  rotate: false
+  xy: 865, 551
+  size: 140, 167
+  orig: 140, 167
+  offset: 0, 0
+  index: 2
+start
+  rotate: false
+  xy: 1005, 551
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: 3
+start
+  rotate: false
+  xy: 1152, 551
+  size: 350, 132
+  orig: 350, 132
+  offset: 0, 0
+  index: 4
+worker
+  rotate: false
+  xy: 1502, 551
+  size: 90, 150
+  orig: 90, 150
+  offset: 0, 0
+  index: 1
+worker
+  rotate: false
+  xy: 1592, 551
+  size: 91, 150
+  orig: 91, 150
+  offset: 0, 0
+  index: 2
+worker
+  rotate: false
+  xy: 1683, 551
+  size: 91, 148
+  orig: 91, 148
+  offset: 0, 0
+  index: 3
+worker
+  rotate: false
+  xy: 1774, 551
+  size: 92, 150
+  orig: 92, 150
+  offset: 0, 0
+  index: 4
+worker
+  rotate: false
+  xy: 1866, 551
+  size: 93, 150
+  orig: 93, 150
+  offset: 0, 0
+  index: 5
+worker
+  rotate: false
+  xy: 1959, 551
+  size: 89, 150
+  orig: 89, 150
+  offset: 0, 0
+  index: 6
